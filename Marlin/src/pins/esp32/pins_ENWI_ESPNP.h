@@ -102,9 +102,9 @@
 // General use mosfets, useful for things like pumps and solenoids
 // Shift register pins 128, 129, 130 and 131 are broken out and can be used
 #define FAN_PIN                              132
-#define FAN1_PIN                             134
-#define FAN2_PIN                             135
-#define FAN3_PIN                             136
+#define FAN1_PIN                             133
+#define FAN2_PIN                             134
+#define FAN3_PIN                             135
 
 // #define FAN_SOFT_PWM_REQUIRED // check if needed
 
